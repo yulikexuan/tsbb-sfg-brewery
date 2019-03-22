@@ -1,4 +1,4 @@
-package guru.springframework.brewery.tsbbsfgbrewery;
+package guru.springframework.brewery;
 
 
 import org.junit.jupiter.api.Test;
